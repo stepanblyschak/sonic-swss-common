@@ -340,6 +340,7 @@ namespace swss {
 /***** STATE DATABASE *****/
 
 #define STATE_SWITCH_CAPABILITY_TABLE_NAME          "SWITCH_CAPABILITY_TABLE"
+#define STATE_ACL_STAGE_CAPABILITY_TABLE_NAME       "ACL_STAGE_CAPABILITY_TABLE"
 #define STATE_PORT_TABLE_NAME                       "PORT_TABLE"
 #define STATE_LAG_TABLE_NAME                        "LAG_TABLE"
 #define STATE_VLAN_TABLE_NAME                       "VLAN_TABLE"
